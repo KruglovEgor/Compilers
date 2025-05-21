@@ -1,0 +1,10 @@
+a = 1;
+b = 10;
+
+c = "У нас ";
+d = "получилось ";
+
+print(a + b);
+print(c + d);
+print(c + d + a + b);
+print(c + d + (a + b));
